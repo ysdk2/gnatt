@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gnatt/static/css/main.cf6bf061.chunk.css",
+    "main.js": "/gnatt/static/js/main.d5cdc74e.chunk.js",
+    "main.js.map": "/gnatt/static/js/main.d5cdc74e.chunk.js.map",
+    "runtime-main.js": "/gnatt/static/js/runtime-main.48ec2805.js",
+    "runtime-main.js.map": "/gnatt/static/js/runtime-main.48ec2805.js.map",
+    "static/css/2.d5a61d49.chunk.css": "/gnatt/static/css/2.d5a61d49.chunk.css",
+    "static/js/2.a872be20.chunk.js": "/gnatt/static/js/2.a872be20.chunk.js",
+    "static/js/2.a872be20.chunk.js.map": "/gnatt/static/js/2.a872be20.chunk.js.map",
+    "static/js/3.4cf0181c.chunk.js": "/gnatt/static/js/3.4cf0181c.chunk.js",
+    "static/js/3.4cf0181c.chunk.js.map": "/gnatt/static/js/3.4cf0181c.chunk.js.map",
+    "index.html": "/gnatt/index.html",
+    "static/css/2.d5a61d49.chunk.css.map": "/gnatt/static/css/2.d5a61d49.chunk.css.map",
+    "static/css/main.cf6bf061.chunk.css.map": "/gnatt/static/css/main.cf6bf061.chunk.css.map",
+    "static/js/2.a872be20.chunk.js.LICENSE.txt": "/gnatt/static/js/2.a872be20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ec2805.js",
+    "static/css/2.d5a61d49.chunk.css",
+    "static/js/2.a872be20.chunk.js",
+    "static/css/main.cf6bf061.chunk.css",
+    "static/js/main.d5cdc74e.chunk.js"
+  ]
+}
